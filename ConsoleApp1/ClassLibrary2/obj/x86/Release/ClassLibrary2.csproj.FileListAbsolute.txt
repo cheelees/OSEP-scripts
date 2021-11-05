@@ -1,0 +1,6 @@
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\bin\x86\Release\ClassLibrary2.dll
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\bin\x86\Release\ClassLibrary2.pdb
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\obj\x86\Release\ClassLibrary2.csprojAssemblyReference.cache
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\obj\x86\Release\ClassLibrary2.csproj.CoreCompileInputs.cache
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\obj\x86\Release\ClassLibrary2.dll
+\\192.168.49.80\visualstudio\ConsoleApp1\ClassLibrary2\obj\x86\Release\ClassLibrary2.pdb

@@ -1,0 +1,7 @@
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\bin\x86\Release\ProcInject.exe.config
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\bin\x86\Release\ProcInject.exe
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\bin\x86\Release\ProcInject.pdb
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\obj\x86\Release\ProcInject.csprojAssemblyReference.cache
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\obj\x86\Release\ProcInject.csproj.CoreCompileInputs.cache
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\obj\x86\Release\ProcInject.exe
+\\192.168.49.80\visualstudio\ProcInject\ProcInject\obj\x86\Release\ProcInject.pdb

@@ -1,0 +1,14 @@
+\\192.168.49.80\visualstudio\ProcInject\NtInject\bin\Release\NtInject.exe.config
+\\192.168.49.80\visualstudio\ProcInject\NtInject\bin\Release\NtInject.exe
+\\192.168.49.80\visualstudio\ProcInject\NtInject\bin\Release\NtInject.pdb
+\\192.168.49.80\visualstudio\ProcInject\NtInject\obj\Release\NtInject.csprojAssemblyReference.cache
+\\192.168.49.80\visualstudio\ProcInject\NtInject\obj\Release\NtInject.csproj.CoreCompileInputs.cache
+\\192.168.49.80\visualstudio\ProcInject\NtInject\obj\Release\NtInject.exe
+\\192.168.49.80\visualstudio\ProcInject\NtInject\obj\Release\NtInject.pdb
+Z:\ProcInject\NtInject\bin\Release\NtInject.exe.config
+Z:\ProcInject\NtInject\bin\Release\NtInject.exe
+Z:\ProcInject\NtInject\bin\Release\NtInject.pdb
+Z:\ProcInject\NtInject\obj\Release\NtInject.csproj.AssemblyReference.cache
+Z:\ProcInject\NtInject\obj\Release\NtInject.csproj.CoreCompileInputs.cache
+Z:\ProcInject\NtInject\obj\Release\NtInject.exe
+Z:\ProcInject\NtInject\obj\Release\NtInject.pdb

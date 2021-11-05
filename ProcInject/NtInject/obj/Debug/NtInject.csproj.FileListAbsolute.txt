@@ -1,0 +1,7 @@
+Z:\ProcInject\NtInject\bin\Debug\NtInject.exe.config
+Z:\ProcInject\NtInject\bin\Debug\NtInject.exe
+Z:\ProcInject\NtInject\bin\Debug\NtInject.pdb
+Z:\ProcInject\NtInject\obj\Debug\NtInject.csproj.AssemblyReference.cache
+Z:\ProcInject\NtInject\obj\Debug\NtInject.csproj.CoreCompileInputs.cache
+Z:\ProcInject\NtInject\obj\Debug\NtInject.exe
+Z:\ProcInject\NtInject\obj\Debug\NtInject.pdb
